@@ -26,7 +26,8 @@ _-Front end_: React JS 18+, Vite JS, Bootstrap CSS, JavaScript, NPM, Visual Stud
 ![image](https://github.com/user-attachments/assets/b8a009ab-ead4-4ccf-be45-595c137ff882)
 
 **Screens**
-![image](https://github.com/user-attachments/assets/89336875-8803-4423-b1dd-2264e1f94363)
+![image](https://github.com/user-attachments/assets/875e3558-199d-4bb9-a269-027b648972f1)
+
 ![image](https://github.com/user-attachments/assets/d2899eb3-553c-44c3-8c21-b887133f7e4c)![image](https://github.com/user-attachments/assets/d2b452d4-180b-40bf-855a-b4cf56a8f325)![image](https://github.com/user-attachments/assets/f37533b7-ae08-484b-ac76-ab79b7ca0dd6)
 ![image](https://github.com/user-attachments/assets/3def9545-3de4-4ce8-b3f2-83222e935f5e)
 
